@@ -4,6 +4,6 @@
 </head>
 <body >
    <h1>ARR Showcase Plus</h1>
-   <p><a href="./join">Join Rooms</a></p>
+   <p><a href="arrshowcase://join/?room=Avatars">Join "Avatars" Room</a></p>
 </body>
 </html>
